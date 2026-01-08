@@ -18,7 +18,7 @@ This project presents a secure, scalable, and high-performance network architect
 | Name | Role |
 |------|------|
 | Asogwa Chi-Uba | Network Architect |
-| Pranav Kumar | Network Administrator |
+| Pranav Kumar | Network Architect & Administrator |
 | Richard Antoine Iroudayaradjou | IT Support Specialist |
 | Jie Pengyu | Network Security Specialist |
 
